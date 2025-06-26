@@ -7,7 +7,7 @@ This repository serves as a collection of my data science projects. Each project
 
 ### Airline Sentiment Classifier
 A machine learning model that classifies airline tweets into positive, neutral, or negative sentiment to help prioritize customer service responses.  
-[View Project →](https://github.com/yourusername/airline-sentiment-classifier)
+[View Project →](https://github.com/grantfross/tweet-sentiment-classifier)
 
 ---
 
